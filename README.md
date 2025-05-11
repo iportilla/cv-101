@@ -4,9 +4,9 @@ This repo includes hands-on Jupyter notebooks to learn computer vision using Ope
 
 ## Notebooks
 
-- `cv101-week1.ipynb` – Starter: load and process images
+- `cv101-week1-lowCode.ipynb` – Starter: load and process images
 - `cv101-week1-full.ipynb` – Full GPU-optional solution with CUDA hooks
-- `cv101-week1-apple.ipynb` – Apple Silicon optimized version
+- `cv101-week1-apple-solution.ipynb` – Apple Silicon optimized version
 
 ## Setup
 
@@ -19,3 +19,11 @@ jupyter lab
 ##Sample Image
 
 Place any image you want to test inside `/images/bananas.jpg`.
+
+##Sample script
+
+Run webcam script at `/scripts/cam.py` with
+
+```bash
+python scripts/cam.py
+```
