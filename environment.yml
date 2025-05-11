@@ -1,0 +1,12 @@
+name: cv101
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - opencv
+  - matplotlib
+  - notebook
+  - jupyterlab
+  - pip
+  - pip:
+    - coremltools
