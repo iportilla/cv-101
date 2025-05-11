@@ -16,11 +16,11 @@ conda activate cv101
 jupyter lab
 ```
 
-##Sample Image
+## Sample Image
 
 Place any image you want to test inside `/images/bananas.jpg`.
 
-##Sample script
+## Sample script
 
 Run webcam script at `/scripts/cam.py` with
 
