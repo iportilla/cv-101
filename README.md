@@ -18,11 +18,11 @@ jupyter lab
 
 ## Sample Image
 
-Place any image you want to test inside `/images/bananas.jpg`.
+Place any image/video you want to test inside `./images/`. for example `./images/bananas.jpg`.
 
 ## Sample script
 
-Run webcam script at `/scripts/cam.py` with
+Run webcam script at `./scripts/cam.py` with
 
 ```bash
 python scripts/cam.py
